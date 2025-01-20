@@ -1,0 +1,21 @@
+{
+    "model_type": "lstm",
+    "size_layers": [
+        512,
+        512,
+        512
+    ],
+    "lstm_activation": "tanh",
+    "lstm_recurrentactivation": "sigmoid",
+    "n_dense": 1,
+    "dense_layer_size": 256,
+    "dense_activation": "softmax",
+    "dropout_rate": 0.0,
+    "optimizer_name": "adam",
+    "learning_rate": 0.0005,
+    "batch_size": 512,
+    "n_epochs": 500,
+    "maxlen": 150,
+    "loss": "categorical_crossentropy",
+    "metric": "accuracy"
+}
