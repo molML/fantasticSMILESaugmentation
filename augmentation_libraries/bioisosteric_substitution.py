@@ -1,26 +1,3 @@
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  6 18:00:06 2024
-
-@author: 20213709
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 11 16:58:04 2024
-
-@author: 20213709
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  3 16:56:53 2024
-
-@author: 20213709
-"""
-
 import numpy as np
 import pandas as pd
 import copy
